@@ -1,4 +1,4 @@
-# awesome-voiceprint
+# Awesome-Voiceprint
 A curated list of awesome Voiceprint Recognition papers
 
 # Publications
