@@ -12,8 +12,8 @@ A curated list of awesome Voiceprint Recognition papers.
 * [Target Speaker Verification with Selective Auditory Attention for Single  and Multi-talker Speech](https://arxiv.org/abs/2103.16269)
 
 ## 2020
-* [ECAPA-TDNN: Emphasized Channel Attention, Propagation and Aggregation in TDNN Based Speaker Verification](https://arxiv.org/abs/2005.07143) [code](https://github.com/speechbrain/speechbrain)
-* [In defence of metric learning for speaker recognition](https://arxiv.org/abs/2003.11982) [code](https://github.com/clovaai/voxceleb_trainer)
+* [ECAPA-TDNN: Emphasized Channel Attention, Propagation and Aggregation in TDNN Based Speaker Verification](https://arxiv.org/abs/2005.07143) | [code](https://github.com/speechbrain/speechbrain)
+* [In defence of metric learning for speaker recognition](https://arxiv.org/abs/2003.11982) | [code](https://github.com/clovaai/voxceleb_trainer)
 * [Augmentation adversarial training for unsupervised speaker recognition](https://arxiv.org/abs/2007.12085)
 * [Double Multi-Head Attention for Speaker Verification](https://arxiv.org/abs/2007.13199)
 * [UIAI System for Short-Duration Speaker Verification Challenge 2020](https://arxiv.org/abs/2007.13118)
