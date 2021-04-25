@@ -4,12 +4,16 @@ A curated list of awesome Voiceprint Recognition papers.
 # Speaker Recognition
 
 ## 2021
+* [Attention Back-end for Automatic Speaker Verification with Multiple  Enrollment Utterances](https://arxiv.org/abs/2104.01541)
+* [Out of a hundred trials, how many errors does your speaker verifier  make?](https://arxiv.org/abs/2104.00732)
 * [Unit selection synthesis based data augmentation for fixed phrase speaker verification](https://arxiv.org/abs/2102.09817)
 * [Learnable MFCCs for Speaker Verification](https://arxiv.org/abs/2102.10322)
 * [Triplet loss based embeddings for forensic speaker identification in Spanish](https://arxiv.org/abs/2102.12564)
 * [Target Speaker Verification with Selective Auditory Attention for Single  and Multi-talker Speech](https://arxiv.org/abs/2103.16269)
 
 ## 2020
+* [ECAPA-TDNN: Emphasized Channel Attention, Propagation and Aggregation in TDNN Based Speaker Verification](https://arxiv.org/abs/2005.07143) [code](https://github.com/speechbrain/speechbrain)
+* [In defence of metric learning for speaker recognition](https://arxiv.org/abs/2003.11982) [code](https://github.com/clovaai/voxceleb_trainer)
 * [Augmentation adversarial training for unsupervised speaker recognition](https://arxiv.org/abs/2007.12085)
 * [Double Multi-Head Attention for Speaker Verification](https://arxiv.org/abs/2007.13199)
 * [UIAI System for Short-Duration Speaker Verification Challenge 2020](https://arxiv.org/abs/2007.13118)
@@ -21,7 +25,6 @@ A curated list of awesome Voiceprint Recognition papers.
 * [Universal Adversarial Perturbations Generative Network for Speaker  Recognition](https://arxiv.org/abs/2004.03428)
 * [Multi-Scale Aggregation Using Feature Pyramid Module for  Text-Independent Speaker Verification](https://arxiv.org/abs/2004.03194)
 * [AM-MobileNet1D: A Portable Model for Speaker Recognition](https://arxiv.org/abs/2004.00132)
-* [In defence of metric learning for speaker recognition](https://arxiv.org/abs/2003.11982)
 * [End-to-End Neural Diarization: Reformulating Speaker Diarization as Simple Multi-label Classification](https://arxiv.org/abs/2003.02966)
 * [NPLDA: A Deep Neural PLDA Model for Speaker Verification](https://arxiv.org/abs/2002.03562)
 
