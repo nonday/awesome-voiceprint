@@ -4,6 +4,10 @@ A curated list of awesome Voiceprint Recognition papers.
 # Speaker Recognition
 
 ## 2021
+* [Adaptive Margin Circle Loss for Speaker Verification](https://arxiv.org/pdf/2106.08004.pdf)
+* [Attention Back-end for Automatic Speaker Verification with Multiple Enrollment Utterances](https://arxiv.org/pdf/2104.01541.pdf)
+* [JOINT GENDER AND AGE ESTIMATION BASED ON SPEECH SIGNALS USING X-VECTORS AND TRANSFER LEARNING](https://arxiv.org/pdf/2012.01551.pdf)
+* [EfficientTDNN: Efficient Architecture Search for Speaker Recognition in the Wild](https://arxiv.org/pdf/2103.13581.pdf)
 * [Attention Back-end for Automatic Speaker Verification with Multiple  Enrollment Utterances](https://arxiv.org/abs/2104.01541)
 * [Out of a hundred trials, how many errors does your speaker verifier  make?](https://arxiv.org/abs/2104.00732)
 * [Unit selection synthesis based data augmentation for fixed phrase speaker verification](https://arxiv.org/abs/2102.09817)
@@ -12,7 +16,7 @@ A curated list of awesome Voiceprint Recognition papers.
 * [Target Speaker Verification with Selective Auditory Attention for Single  and Multi-talker Speech](https://arxiv.org/abs/2103.16269)
 
 ## 2020
-* [ECAPA-TDNN: Emphasized Channel Attention, Propagation and Aggregation in TDNN Based Speaker Verification](https://arxiv.org/abs/2005.07143) | [code](https://github.com/speechbrain/speechbrain)
+* [ECAPA-TDNN: Emphasized Channel Attention, Propagation and Aggregation in TDNN Based Speaker Verification](https://arxiv.org/abs/2005.07143) | [code](https://github.com/speechbrain/speechbrain) | [code](https://github.com/lawlict/ECAPA-TDNN)
 * [In defence of metric learning for speaker recognition](https://arxiv.org/abs/2003.11982) | [code](https://github.com/clovaai/voxceleb_trainer)
 * [Augmentation adversarial training for unsupervised speaker recognition](https://arxiv.org/abs/2007.12085)
 * [Double Multi-Head Attention for Speaker Verification](https://arxiv.org/abs/2007.13199)
