@@ -38,6 +38,12 @@ A curated list of awesome Voiceprint Recognition papers.
 ## 2018
 * [GENERALIZED END-TO-END LOSS FOR SPEAKER VERIFICATION](https://arxiv.org/abs/1710.10467v3)
 
+# Data Augmentation
+* [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/abs/1904.08779v3) | [code](https://github.com/DemisEom/SpecAugment)
+* [SpecAugment++: A Hidden Space Data Augmentation Method for Acoustic  Scene Classification](https://arxiv.org/abs/2103.16858)
+* [MixSpeech: Data Augmentation for Low-resource Automatic Speech Recognition](https://arxiv.org/abs/2102.12664)
+* [Fundamental Frequency Feature Normalization and Data Augmentation for Child Speech Recognition](https://arxiv.org/abs/2102.09106)
+
 # Others
 * [Multichannel CRNN for Speaker Counting: an Analysis of Performance](https://arxiv.org/abs/2101.01977)
 * [End-to-End Speaker Height and age estimation using Attention Mechanism with LSTM-RNN](https://arxiv.org/abs/2101.05056)
@@ -46,6 +52,3 @@ A curated list of awesome Voiceprint Recognition papers.
 * [GISE-51: A scalable isolated sound events dataset](https://arxiv.org/abs/2103.12306)
 * [Guided Training: A Simple Method for Single-channel Speaker Separation](https://arxiv.org/abs/2103.14330)
 * [SubSpectral Normalization for Neural Audio Data Processing](https://arxiv.org/abs/2103.13620)
-* [SpecAugment++: A Hidden Space Data Augmentation Method for Acoustic  Scene Classification](https://arxiv.org/abs/2103.16858)
-* [MixSpeech: Data Augmentation for Low-resource Automatic Speech Recognition](https://arxiv.org/abs/2102.12664)
-* [Fundamental Frequency Feature Normalization and Data Augmentation for Child Speech Recognition](https://arxiv.org/abs/2102.09106)
